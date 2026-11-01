@@ -5,9 +5,12 @@
 
 ### Computer Systems & Software Engineering Graduate
 
-**Data Analysis | Artificial Intelligence | Software Development**
+**Software Development | Artificial Intelligence | Data & Machine Learning**
 
-*Turning ideas into code and learning something new every day.*
+📍 Egypt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gehad-gamal-150258374/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/gehad12444)
 
 </div>
 
@@ -15,77 +18,141 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Graduate in Computer Systems & Software Engineering.
-- 💻 Interested in Software Development and building practical applications.
-- 📊 Exploring Data Analysis and working with data.
-- 🤖 Passionate about Artificial Intelligence and its real-world applications.
-- 🌱 Continuously learning and developing my technical skills.
+I'm a Computer Systems & Software Engineering graduate from Al-Azhar University, with an Excellent grade with Honors.
+
+I'm interested in building software applications, exploring Artificial Intelligence, and working with data.
+
+- 🎓 B.Sc. in Computer Systems & Software Engineering (2026).
+- 💻 Experience with academic web and backend development projects.
+- 🤖 Interested in AI integration and Machine Learning.
+- 📊 Exploring Data Analysis and data-driven solutions.
+- 🌱 Always learning, improving, and building practical projects.
+- 🚀 Open to Internships and Entry-Level Opportunities.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Web Development**
+### Web & Backend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Database & Tools**
+### AI & Machine Learning
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+- Logistic Regression (Basic)
+- AI Integration
+- Prompt Design
+- Generative AI
+
+### Databases & Tools
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+- SQL Server Management Studio (SSMS)
+- Thunder Client
+- Microsoft Office
+- Cisco Packet Tracer
+- Proteus
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. Auto Interactive eBooks
-Graduation Project – An AI-powered interactive learning experience using Gemini API.
+**Graduation Project | Team Project**
 
-**Technologies:** Node.js, Gemini API, JavaScript.
+An AI-powered interactive eBook platform that analyzes book page images and generates interactive learning content displayed in the page margins.
 
-### 2. E-commerce Application
-An e-commerce application developed as a practical software project.
+**My Contributions:**
+- Developed backend functionality using Node.js and Express.js.
+- Built RESTful API endpoints.
+- Integrated Gemini API for AI-powered content generation.
+- Designed prompts for AI-generated explanations and interactive learning objects.
 
-**Technologies:** C#, SQL Server.
+**Technologies:** Node.js, Express.js, Gemini API, JavaScript.
 
-### 3. Smart Parking Gate
-An Arduino-based smart parking system using sensors and an LCD display.
+---
 
-**Technologies:** C++, Arduino, IR Sensors.
+### 2. Diabetes Prediction – Machine Learning
 
-### 4. E-commerce Website
-A web development project focused on building an online shopping interface.
+Developed a diabetes prediction model using Logistic Regression and the PIMA Indians Diabetes Dataset.
 
-**Technologies:** HTML, CSS, JavaScript.
+**Technologies:** Python, Machine Learning, Logistic Regression.
+
+---
+
+### 3. E-Commerce Application
+
+Developed two versions of an e-commerce application:
+- Desktop application using C# and SQL Server.
+- Web application using HTML, CSS, and JavaScript.
+
+Worked with SQL queries to retrieve, insert, update, and manage application data.
+
+**Technologies:** C#, SQL Server, SSMS, HTML, CSS, JavaScript.
+
+---
+
+### 4. Mini Programming Language Compiler
+
+Implemented a mini compiler in Python to analyze source code, perform tokenization, and translate code into a lower-level representation.
+
+**Technologies:** Python, Compiler Design.
+
+---
+
+### 5. Smart Parking Gate System
+
+Designed and implemented a smart parking gate system using Arduino, IR sensors, and an LCD display, with circuit simulation and a hardware prototype.
+
+**Technologies:** C++, Arduino, IR Sensors, Proteus.
+
+---
+
+## 📚 Training & Activities
+
+- NVIDIA × ITI – Generative AI Training (2024–2025).
+- ITI – Front-End Web Development Training (HTML, CSS, JavaScript, Bootstrap, React).
+- IEEE – Front-End Development Team.
+- Git & GitHub – Online Self-Paced Course.
 
 ---
 
 ## 🎯 Areas of Interest
 
-- Data Analysis
+- Software Engineering
+- Backend Development
 - Artificial Intelligence
+- Data Analysis
 - Machine Learning
-- Software Development
-- Problem Solving
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gehad-gamal-150258374/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gehad_Gamal-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gehad-gamal-150258374/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad12444)
+[![GitHub](https://img.shields.io/badge/GitHub-gehad12444-181717?style=for-the-badge&logo=github)](https://github.com/gehad12444)
 
 </div>
 
@@ -93,6 +160,6 @@ A web development project focused on building an online shopping interface.
 
 <div align="center">
 
-*Thanks for visiting my profile! ⭐*
+⭐ *Thanks for visiting my profile!*
 
 </div>
