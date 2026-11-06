@@ -5,7 +5,7 @@
 
 ### Computer Systems & Software Engineering Graduate
 
-**Software Development | Artificial Intelligence | Data & Machine Learning**
+**Web Development | Software Engineering | Artificial Intelligence | Data Analysis**
 
 📍 Egypt
 
@@ -20,9 +20,12 @@
 
 I'm a Computer Systems & Software Engineering graduate from Al-Azhar University, with an Excellent grade with Honors.
 
-I'm interested in building software applications, exploring Artificial Intelligence, and working with data.
+I'm passionate about Web Development and building interactive web applications. I enjoy working with front-end technologies and exploring backend development to understand how complete web applications work.
+
+I'm also interested in Artificial Intelligence, Machine Learning, and Data Analysis, and continuously working on developing my technical skills through practical projects.
 
 - 🎓 B.Sc. in Computer Systems & Software Engineering (2026).
+- 🌐 Interested in Front-End and Web Development.
 - 💻 Experience with academic web and backend development projects.
 - 🤖 Interested in AI integration and Machine Learning.
 - 📊 Exploring Data Analysis and data-driven solutions.
@@ -44,6 +47,7 @@ I'm interested in building software applications, exploring Artificial Intellige
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -51,7 +55,6 @@ I'm interested in building software applications, exploring Artificial Intellige
 
 ### AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 - Logistic Regression (Basic)
@@ -74,9 +77,34 @@ I'm interested in building software applications, exploring Artificial Intellige
 
 ---
 
-## 🚀 Featured Projects
 
-### 1. Auto Interactive eBooks
+## 🚀 Featured Project
+
+### JobFinder – Job Search Platform
+
+A responsive job search web application built with HTML, CSS, and JavaScript.
+
+**Features:**
+- Search jobs by title and location.
+- Browse available job opportunities.
+- Save favorite jobs.
+- User profile and authentication interfaces.
+- Dark Mode support.
+- Responsive user interface.
+
+**Technologies:** HTML5, CSS3, JavaScript.
+
+### Project Preview
+
+[![JobFinder Preview](assets/jobfinder-home.png)](https://gehad12444.github.io/JobFinder/)
+
+🔗 **[Live Demo](https://gehad12444.github.io/JobFinder/)**
+
+💻 **[Source Code](https://github.com/gehad12444/JobFinder)**
+
+
+
+### 2. Auto Interactive eBooks
 **Graduation Project | Team Project**
 
 An AI-powered interactive eBook platform that analyzes book page images and generates interactive learning content displayed in the page margins.
@@ -89,17 +117,13 @@ An AI-powered interactive eBook platform that analyzes book page images and gene
 
 **Technologies:** Node.js, Express.js, Gemini API, JavaScript.
 
----
-
-### 2. Diabetes Prediction – Machine Learning
+### 3. Diabetes Prediction – Machine Learning
 
 Developed a diabetes prediction model using Logistic Regression and the PIMA Indians Diabetes Dataset.
 
 **Technologies:** Python, Machine Learning, Logistic Regression.
 
----
-
-### 3. E-Commerce Application
+### 4. E-Commerce Application
 
 Developed two versions of an e-commerce application:
 - Desktop application using C# and SQL Server.
@@ -109,17 +133,13 @@ Worked with SQL queries to retrieve, insert, update, and manage application data
 
 **Technologies:** C#, SQL Server, SSMS, HTML, CSS, JavaScript.
 
----
-
-### 4. Mini Programming Language Compiler
+### 5. Mini Programming Language Compiler
 
 Implemented a mini compiler in Python to analyze source code, perform tokenization, and translate code into a lower-level representation.
 
 **Technologies:** Python, Compiler Design.
 
----
-
-### 5. Smart Parking Gate System
+### 6. Smart Parking Gate System
 
 Designed and implemented a smart parking gate system using Arduino, IR sensors, and an LCD display, with circuit simulation and a hardware prototype.
 
@@ -138,7 +158,8 @@ Designed and implemented a smart parking gate system using Arduino, IR sensors, 
 
 ## 🎯 Areas of Interest
 
-- Software Engineering
+- Front-End Web Development
+- Web Application Development
 - Backend Development
 - Artificial Intelligence
 - Data Analysis
