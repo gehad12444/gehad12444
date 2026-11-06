@@ -96,7 +96,7 @@ A responsive job search web application built with HTML, CSS, and JavaScript.
 
 ### Project Preview
 
-[![JobFinder Preview](assets/jobfinder-home.png)](https://gehad12444.github.io/JobFinder/)
+[![JobFinder Preview](jobfinder-home.png)](https://gehad12444.github.io/JobFinder/)
 
 🔗 **[Live Demo](https://gehad12444.github.io/JobFinder/)**
 
